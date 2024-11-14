@@ -62,7 +62,7 @@ a:hover {
     ul {
         flex-direction: column;
         position: absolute;
-        background-color: rgba(255,255,255,0.1);
+        background-color: rgba(255,255,255,0.5);
         top: 0; /*Eviter que le menu responsive sort de l'écran en haut*/
         left: -1500px; /*Cacher le menu responsive sur écran de + de 1150px*/
         width: 100%; /*Pour que le menu responsive prenne tout l'écran*/
